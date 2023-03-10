@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'custom_slider.dart';
+import '../widgets/custom_slider.dart';
 
 
 

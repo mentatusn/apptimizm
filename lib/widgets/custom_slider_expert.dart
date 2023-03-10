@@ -1,4 +1,4 @@
-import 'package:apptimizm/custom_slider.dart';
+import 'package:apptimizm/widgets/custom_slider.dart';
 import 'package:flutter/material.dart';
 
 

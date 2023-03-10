@@ -1,6 +1,6 @@
-import 'package:apptimizm/task_first.dart';
-import 'package:apptimizm/task_third.dart';
-import 'package:apptimizm/task_second.dart';
+import 'package:apptimizm/screens/task_first.dart';
+import 'package:apptimizm/screens/task_third.dart';
+import 'package:apptimizm/screens/task_second.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());

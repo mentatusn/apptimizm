@@ -1,8 +1,8 @@
-import 'package:apptimizm/custom_slider_expert.dart';
+import 'package:apptimizm/widgets/custom_slider_expert.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'custom_slider.dart';
+import '../widgets/custom_slider.dart';
 
 
 class TaskThirdPage extends StatefulWidget {
